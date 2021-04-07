@@ -1,9 +1,9 @@
 // lets you read user input:
 import scala.io.StdIn.readLine
 
-// run "Example1.run" to run this code
+// run "Example01.run" to run this code
 
-object Example1 {
+object Example01 {
     def run(): Unit = {
         var inputA = readLine()
         var inputB = readLine()
