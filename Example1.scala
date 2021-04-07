@@ -10,6 +10,8 @@ object Example1 {
 
         println("\n" + s"${inputA} and ${inputB}...")
 
+        // if statments return a value, so you could stuff like this
+        // they're technically called 'if expressions'
         var variable = 
         if (inputA.equals(inputB)) 
             "The names are the same!"
