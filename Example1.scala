@@ -22,6 +22,6 @@ object Example1 {
         else
             "The names are different." 
 
-        println(variable)
+        println(variable) 
     }
 }
