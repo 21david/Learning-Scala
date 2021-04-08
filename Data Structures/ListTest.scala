@@ -44,5 +44,8 @@ object ListTest {
 
         println(list)  // comes out as a List type
 
+        println(d(3))
+        println(list(3))
+
     }
 }
