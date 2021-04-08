@@ -3,6 +3,8 @@ package com.revature.introdemos.datastructures
 /**
   * A List is a linked list under the hood. So it is probably like LinkedList in Java.
   * It is immutable, like strings, so you can only create new Lists using old Lists.
+  * Since it is a linked list, accessing elements is O(N) and not O(1), so accessing
+  * elements in a large List can take a long time.
   * 
   * Initialize:
   *     val ints = List(1, 2, 3)
